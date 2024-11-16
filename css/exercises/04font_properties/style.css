@@ -1,0 +1,35 @@
+body {
+	background-color: cornflowerblue;
+	color: white;
+	font-size: 18px;
+}
+
+.honk-intro {
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+
+#color {
+	color: coral;
+}
+
+#font-text {
+	font-size: 2rem;
+}
+
+#weight {
+	font-weight: 900;
+}
+
+#align {
+	text-align: right;
+}
+
+html {
+	font-size: 30px;
+}
